@@ -13,6 +13,6 @@
 
 ```bash
 $ git clone https://github.com/Aries-iai/Cross-modal_Patch_Attack
-$ cd infrared_patch_attack
+$ cd Cross-modal_Patch_Attack
 $ pip install -r requirements.txt
 ```
