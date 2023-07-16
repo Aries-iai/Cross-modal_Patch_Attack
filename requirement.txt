@@ -1,0 +1,15 @@
+cmake
+cycler
+cython
+imageio
+importlib-metadata
+joblib
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+pyparsing
+scikit-image
+scipy
+tqdm
