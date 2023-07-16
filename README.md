@@ -1,4 +1,4 @@
-# Unified Adversarial Patch for Visible-Infrared Cross-modal Attacks in the Physical World
+# Unified Adversarial Patch for  Cross-modal Attacks in the Physical World
 ## <div align="center">Quick Start Examples</div>
 
 <details open>
