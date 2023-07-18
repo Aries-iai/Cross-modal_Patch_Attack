@@ -16,3 +16,29 @@ $ git clone https://github.com/Aries-iai/Cross-modal_Patch_Attack
 $ cd Cross-modal_Patch_Attack
 $ pip install -r requirements.txt
 ```
+
+<details open> 
+<summary>Data Convention</summary>
+The data is organized as follows:
+
+```
+dataset  
+|-- attack_infrared
+    |-- 000.png        # images in the infrared modality
+    |-- 001.png
+    ...
+|-- attack_visible
+    |-- 000.png        # images in the visible modality
+    |-- 001.png
+    ...
+```
+
+Here, we should ensure the consistency of infrared images and visible images' names.
+
+<details open> 
+<summary>Running</summary>
+
+```shell
+python spline_DE_attack.py
+```
+
