@@ -56,6 +56,8 @@ python spline_DE_attack.py
 
   3. **The weights of yolov3 models can be downloaded from: https://drive.google.com/file/d/1gpPnHcGRjrJAComQety__dWVwJTWCnTk/view?usp=drive_link.**
 
+  4. **The part of attacked images can be downloaded from: https://drive.google.com/file/d/1C7mhrr94lXu4qw_P1dX5hwpRuDc4iI-4/view?usp=drive_link.**
+
 
 
 
