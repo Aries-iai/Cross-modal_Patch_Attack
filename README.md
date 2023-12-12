@@ -54,6 +54,11 @@ python spline_DE_attack.py
   
   2. If you want to attack other detection models, you only change yolov3 folder to the model folder you want to attack and return targets' detection confidence scores to DE.
 
+  3. **The weights of yolov3 models can be downloaded from: https://drive.google.com/file/d/1gpPnHcGRjrJAComQety__dWVwJTWCnTk/view?usp=drive_link.**
+
+  4. **The attacked images can be downloaded from: https://drive.google.com/file/d/1MUz-LOD_-F7AyRjJv8zKFDLYNsEel433/view?usp=drive_link.**
+
+
 ## Citation
 
 Cite as below if you find this repository is helpful to your project:
