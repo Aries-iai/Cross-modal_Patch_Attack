@@ -1,11 +1,14 @@
-#  [Unified Adversarial Patch for Cross-modal Attacks in the Physical World](https://arxiv.org/abs/2307.07859) 
- This is an official implementation and we aim to implement an effective rgb-infrared multi-modal attack in the physical world.
+# Unified Adversarial Patch for Cross-modal Attacks in the Physical World
+
+ This is an official implementation 🍎 and we aim to implement an effective rgb-infrared multi-modal attack in the physical world.
+ 
+  🍊\[[Read our arXiv Paper](https://arxiv.org/abs/2307.07859)\]
 
 <div align="center">
 <img src="./demo.png"  alt="demo" />
  </div>
 
-## ⚡ Usage
+## 🍇 Usage
 <details open>
 <summary>Install</summary>
   
@@ -52,7 +55,7 @@ python spline_DE_attack.py
 
   1. When you prepare dataset, you need to change directory path in spline_DE_attack.py and DE.py. 
   
-  2. If you want to attack other detection models, you only change yolov3 folder to the model folder you want to attack and return targets' detection confidence scores to DE.
+  2. ⚠️ If you want to attack other detection models, you need to change yolov3 folder to the model folder you want to attack and add detect_infrared.py, detect_visible.py in this new folder for returning targets' detection confidence scores to DE.
 
   3. **The weights of yolov3 models can be downloaded from: https://drive.google.com/file/d/1gpPnHcGRjrJAComQety__dWVwJTWCnTk/view?usp=drive_link.**
 
